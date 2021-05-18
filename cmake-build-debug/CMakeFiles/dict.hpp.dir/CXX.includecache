@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/elena-dolgova/CLionProjects/2019-ha4-dict-ElenaDolgova/dict.hpp
+map
+-
+cstdio
+-
+utility
+-
+stdexcept
+-
+string
+-
+any
+-
+iostream
+-
+unordered_map
+-
+
+/Users/elena-dolgova/CLionProjects/2019-ha4-dict-ElenaDolgova/dict_json.hpp
+
+/Users/elena-dolgova/CLionProjects/2019-ha4-dict-ElenaDolgova/dict_serialization.hpp
+
+/Users/elena-dolgova/CLionProjects/2019-ha4-dict-ElenaDolgova/smoke_test.cpp
+dict.hpp
+/Users/elena-dolgova/CLionProjects/2019-ha4-dict-ElenaDolgova/dict.hpp
+dict_serialization.hpp
+/Users/elena-dolgova/CLionProjects/2019-ha4-dict-ElenaDolgova/dict_serialization.hpp
+dict_json.hpp
+/Users/elena-dolgova/CLionProjects/2019-ha4-dict-ElenaDolgova/dict_json.hpp
+sstream
+-
+
